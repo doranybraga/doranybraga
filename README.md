@@ -5,8 +5,3 @@
 
 - 📝 Documento minha jornada no meu blog [https://www.dorany.com.br/](https://www.dorany.com.br/)
 
-
-
-<h3 align="left">Conecte-se comigo:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/doranybraga/" /></a>
