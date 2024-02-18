@@ -1,6 +1,16 @@
-<div align="center">
-  <img height="200" src="https://avatars.githubusercontent.com/u/160362250?s=400&u=9a321ce6c6235bfb8eef3da31e91239d033aa80b&v=4"  />
-</div>
+<h1 align="center">Olá 👋, sou Dorany</h1>
+<h3 align="center">Engenheiro de software 👩‍🎓 Sistemas para internet</h3>
+
+- 🧠 Atualmente estou aprendendo **Inglês**
+
+- 📝 Documento minha jornada no meu blog [https://www.dorany.com.br/](https://www.dorany.com.br/)
+
+
+<h3 align="left">Conecte-se comigo:</h3>
+<p align="left">
+<a href ="https://linkedin.com/in/https://www.linkedin.com/in/doranybraga/" target="blank"><img align="center" src="https://raw.githubusercontent .com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/doranybraga/" altura ="30" width="40" /></a>
+</p>
+
 
 ###
 
