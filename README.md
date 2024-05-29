@@ -16,8 +16,6 @@
 
 <h4 align="center">Estou me preparando para buscar de uma oportunidade de aplicar conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos no campo da tecnologia.</h4>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=doranybraga&show_icons=true&locale=en&layout=compact" alt="doranybraga" /> </p>
-
 - 👨‍💻 Estou trabalhando em um produto pessoal, desenvolvendo meu sistema utilizando no tecnologias back-end Java com spring boot, banco de dados MySQL e front end em React. 
 
 - 🌱 Estou estudando: **Desenvolvimento em linguagem Java e Inglês**
