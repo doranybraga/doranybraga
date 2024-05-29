@@ -30,15 +30,12 @@
 
 - 📝 Eu documento minha jornada de estudos no [https://www.dorany.com.br/blog](https://www.dorany.com.br/blog)
 
-- 📫 Contato : **dorany.contato@gmail.com**
-
-
-<h3 align="left"> Eu tenho como meta contruir um canal de educação no Youtube: </h3>
-<p align="left">
-<a href="[https://www.youtube.com/c/@dorany](https://www.youtube.com/@dorany)" target="blank"><img align="center" src="https: //raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@dorany" height="30" width="40" /> </a>
-</p>
+- 📫 Contato : **dorany.contato@gmail.com** 
 
 - ⚡ Curiosidades: **Cursei 2 anos de publicidade e não uso redes sociais. Tenho 2 ilustrações publicadas em capa de livro. Desenhar é um hobby que tenho práticado pouco.**
+
+**Eu tenho como meta para 2025 contruir um canal de educação no Youtube** [https://www.youtube.com/c/@dorany](https://www.youtube.com/@dorany)
+<p align="left">
 
 ###
 
