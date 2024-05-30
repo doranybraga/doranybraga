@@ -34,11 +34,15 @@
 
 - 💬 Sou formada em: **Técnica em Administração, Computação Gráfica.**
 
-- 📝 Eu documento minha jornada de estudos no [https://www.dorany.com.br/blog](https://www.dorany.com.br/blog)
+- 📝 Eu tenho um backup de estudos no [https://www.dorany.com.br/blog](https://www.dorany.com.br/blog)
 
 - 📫 Contato : **dorany.contato@gmail.com** 
 
-- ⚡ Curiosidades: **Cursei 2 anos de publicidade e não uso redes sociais. Tenho 2 ilustrações publicadas em capa de livro. Desenhar é um hobby que tenho práticado pouco.**
+**⚡ Curiosidades:**
+- Atuei como fotógrafa profissional por 11 anos, hoje fotografo apenas por hobby.
+- Cursei 2 anos de publicidade e abandonei completamente Instagram, facebook, tiktok.
+- Tenho 2  [ilustrações publicadas](https://www.dorany.com.br/post/ilustra%C3%A7%C3%B5es-publicadas) em capa de livro. 
+- Desenhar é um hobby que tenho práticado pouco.
 
 **Eu tenho como meta para 2025 contruir um canal de educação no Youtube** [https://www.youtube.com/c/@dorany](https://www.youtube.com/@dorany)
 <p align="left">
