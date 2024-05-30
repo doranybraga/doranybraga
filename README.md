@@ -14,15 +14,23 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-<h4 align="center">Estou me preparando para buscar de uma oportunidade de aplicar conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos no campo da tecnologia.</h4>
-
 - 👨‍💻 Estou trabalhando em um produto pessoal, desenvolvendo meu sistema utilizando no tecnologias back-end Java com spring boot, banco de dados MySQL e front end em React. 
 
-- 🌱 Estou estudando: **Desenvolvimento em linguagem Java e Inglês**
+- 🤝 Estou colaborando com a empresa Jhovis, desenvolvendo o projeto de UX/UI Design . [Jhovis Mobilidade Urbana](https://www.jhovis.com.br/)
 
-- 🤝 Estou colaborando com a empresa Jhovis, desenvolvendo o visual do site e peças publicitárias. [Jhovis Mobilidade Urbana](https://www.jhovis.com.br/)
+
+<h4 align="center">Estou me preparando para buscar de uma oportunidade de aplicar conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos no campo da tecnologia.</h4>
+
+
+<div align="center" >
+   
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=doranybraga&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/doranybraga?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
+
+</div>
 
 - 👨‍💻 Minha casa na internet [dorany.com.br](dorany.com.br)
+
+- 🌱 Estou estudando: **Desenvolvimento em linguagem Java e Inglês**
 
 - 💬 Sou formada em: **Técnica em Administração, Computação Gráfica.**
 
