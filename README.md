@@ -16,7 +16,7 @@
 
 - 👨‍💻 Estou trabalhando em um produto pessoal, desenvolvendo meu sistema utilizando no tecnologias back-end Java com spring boot, banco de dados MySQL e front end em React. 
 
-- 🤝 Estou colaborando com a empresa Jhovis, desenvolvendo o projeto de UX/UI Design . [Jhovis Mobilidade Urbana](https://www.jhovis.com.br/)
+- 🤝 Estou colaborando com a empresa Jhovis. [Jhovis Mobilidade Urbana](https://www.jhovis.com.br/)
 
 
 <h4 align="center">Estou me preparando para buscar de uma oportunidade de aplicar conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos no campo da tecnologia.</h4>
