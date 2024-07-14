@@ -14,11 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
 
-- 👨‍💻 Estou trabalhando em um produto pessoal, desenvolvendo meu sistema utilizando no tecnologias back-end Java com spring boot, banco de dados MySQL e front end em React. 
-
-- 🤝 Estou colaborando com a empresa Jhovis. [Jhovis Mobilidade Urbana](https://www.jhovis.com.br/)
-
-
 <h4 align="center">Estou me preparando para buscar de uma oportunidade de aplicar conhecimentos acadêmicos, desenvolver habilidades práticas e contribuir para projetos no campo da tecnologia.</h4>
 
 
